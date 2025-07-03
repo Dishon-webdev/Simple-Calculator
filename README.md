@@ -1,10 +1,6 @@
 # Simple-Calculator
 A beginner-friendly calculator built with HTML, CSS, Bootstrap, and JavaScript. Supports basic arithmetic operations with a clean, responsive design — perfect for front-end learning and practice.
 
-# Simple Calculator
-
-A beginner-friendly calculator built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.  
-This project performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 ## Features
 
